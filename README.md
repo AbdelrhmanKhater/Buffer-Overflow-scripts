@@ -4,7 +4,7 @@ Scripts are used for BOF exploit
 **Steps:**
 1. Fuzzy
 2. Detect offset
-3. control EIP
+3. Control EIP
 4. Find bad characters
 5. JMP ESP
 6. Exploit
