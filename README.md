@@ -9,4 +9,4 @@ Scripts are used for BOF exploit
 5. JMP ESP
 6. Exploit
 
-#### no73s.ctb have mentioned these steps through example of oscp.exe from TryHackMe room https://tryhackme.com/room/bufferoverflowprep
+#### no73s.ctb have mentioned these steps through example of oscp.exe from TryHackMe room (https://tryhackme.com/room/bufferoverflowprep)
